@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">StudentApp</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="logout">Wyloguj</string>
+    <string name="save">Zapisz</string>
+    <string name="name">Imię</string>
+    <string name="surname">Nazwisko</string>
+    <string name="subject">Przedmiot</string>
+    <string name="grade">Ocena</string>
+    <string name="list_students">Lista uczniów</string>
+    <string name="show_grades">Pokaż oceny</string>
+    <string name="dziennik">Dziennik ucznia</string>
+    <string name="save_Grade">Zapisz ocenę</string>
+
+
+    <string-array name="role_array">
+
+        <item>Uczeń</item>
+        <item>Nauczyciel</item>
+    </string-array>
+</resources>
